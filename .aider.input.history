@@ -1,0 +1,52 @@
+
+# 2025-11-26 19:32:59.832841
++Code the following app
++```
++Duck Hunt
++Shoot the ducks as they fly over top half of the screen 
++
++Top half of the screen "blue"
++Bottom half screen "green"
++
++10 ducks "Duck emoji" move in all different "directions" and "positions" in top half of the screen at " fast" speeds for "10" seconds 
++Remaining ducks "fly" away off screen 
++
++Bottom half of screen is a pistol "pistol emoji"
++Player "taps" screen to "hit" the flying ducks
++Player has "10" attempts to "hit" duck 
++
++Hit marks "bang emoji" shows when player "taps" screen 
++Objective is "hit the ducks" as they fly across screen 
++If "duck" is hit the duck "falls" to the bottom of the "screen"
++Keep track of "Score" after game 
++
++"Try Again" button always located under game
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-26 19:32:59.835579
++Code the following app
++```
++Duck Hunt
++Shoot the ducks as they fly over top half of the screen 
++
++Top half of the screen "blue"
++Bottom half screen "green"
++
++10 ducks "Duck emoji" move in all different "directions" and "positions" in top half of the screen at " fast" speeds for "10" seconds 
++Remaining ducks "fly" away off screen 
++
++Bottom half of screen is a pistol "pistol emoji"
++Player "taps" screen to "hit" the flying ducks
++Player has "10" attempts to "hit" duck 
++
++Hit marks "bang emoji" shows when player "taps" screen 
++Objective is "hit the ducks" as they fly across screen 
++If "duck" is hit the duck "falls" to the bottom of the "screen"
++Keep track of "Score" after game 
++
++"Try Again" button always located under game
++```
++
++Generate an app logo and update the app metadata title and description.
